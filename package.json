@@ -1,0 +1,29 @@
+{
+  "name": "ip-to-asn",
+  "version": "1.0.0",
+  "main": "./lib/ip-to-asn.js",
+  "description": "client for Team Cymru's IP to ASN Service",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "homepage": "https://github.com/chadkeck/ip-to-asn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chadkeck/ip-to-asn.git"
+  },
+  "keywords": [
+    "asn",
+    "team-cymru",
+    "cymru"
+  ],
+  "author": {
+    "name": "Chad Bibler",
+    "url": "https://chadbibler.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1",
+    "string": "^3.0.0"
+  }
+}
