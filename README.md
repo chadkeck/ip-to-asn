@@ -2,7 +2,7 @@
 
 A JavaScript client for Team Cymru's [IP to ASN service](https://www.team-cymru.org/Services/ip-to-asn.html).
 
-** Note: ** this is not IP-to-geographical data.
+**Note:** this is not IP-to-geographical data.
 
 ## Install
 
