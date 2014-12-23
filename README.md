@@ -1,5 +1,7 @@
 ## About
 
+[![Dependency Status](https://david-dm.org/chadkeck/ip-to-asn.svg?style=flat)](https://david-dm.org/chadkeck/ip-to-asn)
+
 A JavaScript client for Team Cymru's [IP to ASN service](https://www.team-cymru.org/Services/ip-to-asn.html).
 
 **Note:** this is not IP-to-geographical data.
