@@ -1,6 +1,6 @@
 {
   "name": "ip-to-asn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./lib/ip-to-asn.js",
   "description": "client for Team Cymru's IP to ASN Service",
   "scripts": {
